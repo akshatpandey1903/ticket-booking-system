@@ -45,7 +45,7 @@ This is a basic ticket booking system built as a practice mini-project while lea
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ticket-booking.git
+   git clone https://github.com/akshatpandey1903/ticket-booking-system
    ```
 2. Open the project in IntelliJ IDEA.
 3. Build the project using Gradle:
